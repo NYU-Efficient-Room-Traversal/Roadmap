@@ -2,7 +2,7 @@
 Planning and Task Management
 
 ### Syncronous Tasks
-- [x] Convert Swift to latest syntax
+- [ ] Convert Swift to latest syntax
 - [x] Rebase Project to new Git repository
 - [ ] Decide on a new room traversal algorithm
 
