@@ -54,11 +54,11 @@ Planning and Task Management
 #### Week 10 - The Front End Continued,  Bug Checking
 
 - [ ] Implement a way to generate QR Breadcrumbs on sheets of paper for printing
-- [] Test and find bugs in the front end
+- [ ] Test and find bugs in the front end
 
 #### Week 11 - Pulling It Together
 
-- [] Implement a way to store data on the iPhone
+- [ ] Implement a way to store data on the iPhone
 - [ ] Integrate fully the computational backend to the front end solution (Should be fairly bug-free by this point)
 
 #### Week 12 - Result Output
@@ -74,12 +74,12 @@ Planning and Task Management
 
 ### iPhone App Goals
 
-- [] Use machine vision to find QR Breadcrumbs and angle of approach
-- [] Interface with the `Roomba Control` classes already written
-- [] Allow the user to draw the rough boundaries and path the robot is to follow
-- [] Generate printable QR Codes based on the computations of the path
-- [] Allow support for recording power levels of mmWaves through the path
-- [] Generate a pretty output with this data graphed on a schematic of the room
+- [ ] Use machine vision to find QR Breadcrumbs and angle of approach
+- [ ] Interface with the `Roomba Control` classes already written
+- [ ] Allow the user to draw the rough boundaries and path the robot is to follow
+- [ ] Generate printable QR Codes based on the computations of the path
+- [ ] Allow support for recording power levels of mmWaves through the path
+- [ ] Generate a pretty output with this data graphed on a schematic of the room
 
 ### Working Times
 Saturdays at 1PM, each week
